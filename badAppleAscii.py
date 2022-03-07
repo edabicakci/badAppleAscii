@@ -9,7 +9,7 @@ charWidth = 10
 charHeight = 10
 
 # defines camera object with input from standard webcam
-cam = cv2.VideoCapture("C:/Users/Matthew/Desktop/personalCode/pyCharm/BadApple.avi")
+cam = cv2.VideoCapture("***File Path Goes Here***/BadApple.avi")
 
 # checks if camera is successfully connected
 if not cam.isOpened():
